@@ -7,7 +7,7 @@
             "../AdwaysLib.js/output/interactive - release/",
             "../AdwaysLib.js/yuidoc/interactive"
         ],
-        "outdir": "./out-theme",
+        "outdir": "../AdwaysLib.js/output/interactive - release/yuidoc",
         "themedir": "./themes/adways",
         "helpers": [
             "./themes/adways/assets/js/basic-name.js"
